@@ -1,0 +1,4 @@
+	GroupA	GroupB
+beer	16	23
+wine	20	12
+gin	19	10
